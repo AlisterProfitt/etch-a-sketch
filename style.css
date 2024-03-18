@@ -12,8 +12,8 @@
 #biggie {
     display: flex;
     background-color: green;
-    width: 960px;
-    height: 960px;
+    width: 500px;
+    height: 500px;
     flex-direction: column;
 }
 
